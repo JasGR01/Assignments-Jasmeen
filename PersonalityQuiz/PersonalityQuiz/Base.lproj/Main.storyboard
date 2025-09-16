@@ -255,6 +255,12 @@
                             <constraint firstItem="z8h-Od-o90" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="wDT-4r-Jov"/>
                             <constraint firstItem="z8h-Od-o90" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="yU7-xb-eso"/>
                         </constraints>
+                        <variation key="default">
+                            <mask key="subviews">
+                                <exclude reference="vKP-B5-XFl"/>
+                                <exclude reference="PUQ-oA-nb4"/>
+                            </mask>
+                        </variation>
                     </view>
                     <navigationItem key="navigationItem" id="376-nB-cjX"/>
                     <connections>
